@@ -1,0 +1,10 @@
+Total sentences: 4
+Total alpha-only words: 41
+Unique words: 34
+
+Top frequent words:
+natural : 2
+language : 2
+nlp : 2
+text : 2
+analysis : 2
