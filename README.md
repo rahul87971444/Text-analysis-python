@@ -19,7 +19,7 @@ It performs sentence tokenization, word tokenization, stopword removal, and freq
 - NLTK (Natural Language Toolkit)
 
 ## Project Structure
-|-- text_analysis.py
-|-- sample_text.txt
-|-- requirements.txt
-|-- output.txt
+├── text_analysis.py
+├── sample_text.txt
+├── requirements.txt
+└── output.txt
