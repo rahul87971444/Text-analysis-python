@@ -1,0 +1,4 @@
+Natural Language Processing (NLP) is a branch of Artificial Intelligence.
+It deals with the interaction between computers and humans using natural language.
+Text Analysis helps extract meaningful insights from text data.
+Applications of NLP include chatbots, sentiment analysis, and machine translation.
